@@ -28,7 +28,7 @@ namespace Treino
     public override string ToString()
     {
 
-      return $"{_nc}{Name}{Valdeposito}" ;
+      return $" \n Conta:{_nc} , Titular: {Name} , Saldo : {Valdeposito}   \n " ;
     }
 
 

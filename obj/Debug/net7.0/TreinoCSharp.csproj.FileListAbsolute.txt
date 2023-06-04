@@ -1,0 +1,15 @@
+/Users/Admin/Desktop/Git/EstudoGit/JS/TreinoCSharp/obj/Debug/net7.0/TreinoCSharp.csproj.AssemblyReference.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/TreinoCSharp/obj/Debug/net7.0/TreinoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/Desktop/Git/EstudoGit/JS/TreinoCSharp/obj/Debug/net7.0/TreinoCSharp.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/TreinoCSharp/obj/Debug/net7.0/TreinoCSharp.AssemblyInfo.cs
+/Users/Admin/Desktop/Git/EstudoGit/JS/TreinoCSharp/obj/Debug/net7.0/TreinoCSharp.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/TreinoCSharp/bin/Debug/net7.0/TreinoCSharp
+/Users/Admin/Desktop/Git/EstudoGit/JS/TreinoCSharp/bin/Debug/net7.0/TreinoCSharp.deps.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/TreinoCSharp/bin/Debug/net7.0/TreinoCSharp.runtimeconfig.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/TreinoCSharp/bin/Debug/net7.0/TreinoCSharp.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/TreinoCSharp/bin/Debug/net7.0/TreinoCSharp.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/TreinoCSharp/obj/Debug/net7.0/TreinoCSharp.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/TreinoCSharp/obj/Debug/net7.0/refint/TreinoCSharp.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/TreinoCSharp/obj/Debug/net7.0/TreinoCSharp.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/TreinoCSharp/obj/Debug/net7.0/TreinoCSharp.genruntimeconfig.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/TreinoCSharp/obj/Debug/net7.0/ref/TreinoCSharp.dll

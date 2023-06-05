@@ -1,39 +1,26 @@
 namespace Treino
 {
   public class Treinando
-  {
-
-    private int _nc {get;set;}
-    public string Name;
-
-    private int Valdeposito;
-
-    public Treinando (int nc, string name)
     {
-      this._nc = nc;
-      this.Name = name;
+        public int NC {get; private set;}
+
+        public string Name{get;set;}
+        public double Valdeposito {get;private set;}
+
+        public Treinando(int nc, string name)
+        {
+            this.NC = nc;
+            this.Name = name;
+        }
+         public Treinando(int nc, string name,double Valdeposito):this(nc,name)
+        {
+            this.Valdeposito = Valdeposito;
+        }
 
 
+        public override string ToString()
+        {
+            return $"\nConta: {NC}, Titular: {Name}, Saldo: {Valdeposito.ToString("C")}\n";
+        }
     }
-    public Treinando (int nc, string name,int valdeposito)
-    {
-      this._nc = nc;
-      this.Name = name;
-      this.Valdeposito += valdeposito;
-
-    }
-
-
-
-    public override string ToString()
-    {
-
-      return $" \n Conta:{_nc} , Titular: {Name} , Saldo : {Valdeposito}   \n " ;
-    }
-
-
-
-
-
-  }
 }

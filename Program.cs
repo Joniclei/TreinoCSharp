@@ -33,8 +33,23 @@ namespace Treino
 
       Console.WriteLine("Entre com um valor para deposito");
       double valdeposito2 = Convert.ToDouble(Console.ReadLine());
-      valdeposito += valdeposito2;
+      conta.Deposito(valdeposito2);
+
+      Console.WriteLine();
+      Console.WriteLine("Dados Conta atualizado:");
+      Console.WriteLine(conta);
+
+      Console.WriteLine("Entre com um valor para deposito");
+      valdeposito2 = Convert.ToDouble(Console.ReadLine());
+      conta.Saque(valdeposito2);
+
+      Console.WriteLine();
+      Console.WriteLine("Dados Conta atualizado:");
+      Console.WriteLine(conta);
 
     }
   }
 }
+
+
+

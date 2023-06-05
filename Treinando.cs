@@ -12,9 +12,18 @@ namespace Treino
             this.NC = nc;
             this.Name = name;
         }
-         public Treinando(int nc, string name,double Valdeposito):this(nc,name)
+         public Treinando(int nc, string name,double Valdepositoinicial):this(nc,name)
         {
-            this.Valdeposito = Valdeposito;
+            Deposito(Valdepositoinicial);
+        }
+
+        public  void  Deposito (double valdeposito2){
+          this.Valdeposito += valdeposito2;
+        }
+
+        public void Saque(double valdeposito2)
+        {
+          this.Valdeposito -= (valdeposito2 + 5);
         }
 
 

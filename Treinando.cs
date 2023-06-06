@@ -2,7 +2,7 @@ namespace Treino
 {
   public class Treinando
     {
-        public int NC {get; private set;}
+        public int  NC {get; private set;}
 
         public string Name{get;set;}
         public double Valdeposito {get;private set;}
